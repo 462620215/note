@@ -31,7 +31,7 @@
 
 ## 二、中间件
 ### 网关
-- `pisix`
+- `Aisix`
 - `Kong`
 - `Openresty`
 - `Nginx`
