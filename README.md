@@ -3,24 +3,8 @@
 ## 一、编程语言
 ### 1. Java
 - `多线程高并发`
-  - 线程的状态
-  - 面临的问题
-    - 可见性
-    - 原子性
-    - 顺序性
-  - Happens-Before原则
 - `JVM`
-- `设计模式`
-  - 创建型
-    - 单例
-       1. 饿汉式
-       2. 懒汉式(有顺序性问题) 
-       3. 静态内部类
-       4. 枚举
-    - 工厂方法
-    - 抽象工厂
-    - 原型
-    - 建造者
+- [设计模式](pattern-design.md)
 - `网络开发`
 - `SpringBoot`
 
@@ -37,7 +21,7 @@
 - [**Nginx**](https://github.com/nginx/nginx)
 
 ### 注册中心
-- `Nacos`
+- [**Nacos**](https://github.com/alibaba/nacos)
 - `Consul`
 - `Eureka`
 
