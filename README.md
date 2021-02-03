@@ -2,9 +2,9 @@
 
 ## 一、编程语言
 ### 1. Java
-- `多线程高并发`
+- [**多线程高并发**](notes/high-concurrent.md)
 - `JVM`
-- [设计模式](pattern-design.md)
+- [**设计模式**](notes/pattern-design.md)
 - `网络开发`
 - `SpringBoot`
 
